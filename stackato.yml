@@ -1,0 +1,6 @@
+app-dir: .
+disk: 2048
+memory: 256
+name: workshop03
+buildpack: https://github.com/ecointet/php-buildpack#v3.0.4
+
